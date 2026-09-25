@@ -1,0 +1,19 @@
+# Environment / secrets
+.env
+.vscode/
+
+# Generated model artifacts
+model/artifacts/
+
+# Generated database
+backend/caselens.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# OS / editor
+.DS_Store
+Thumbs.db
